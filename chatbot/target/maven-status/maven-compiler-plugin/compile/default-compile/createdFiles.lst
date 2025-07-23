@@ -1,0 +1,9 @@
+com\eassessment\chatbot\dto\ChatResponse.class
+com\eassessment\chatbot\service\ChatService.class
+com\eassessment\chatbot\dto\ChatRequest.class
+com\eassessment\chatbot\Enum\Role.class
+com\eassessment\chatbot\dto\OllamaRequest.class
+com\eassessment\model\Message.class
+com\eassessment\chatbot\ChatbotApplication.class
+com\eassessment\chatbot\controller\ChatController.class
+com\eassessment\util\SystemPromptLoader.class
